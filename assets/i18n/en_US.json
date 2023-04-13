@@ -1,0 +1,17 @@
+{
+  "app_name": "AT.AuthFi Authenticator",
+  "app_title": "Authenticator",
+  "version": "Version",
+  "copyright": "Copyright © 2022 AuthenTrend Technology Inc. All rights reserved.",
+  "website_url": "https://authentrend.com/at-authfi/",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "invalid_response": "Invalid Response",
+  "delete_account_msg": "Are you sure that you want to delete this account?",
+  "unknown_error": "Unknown Error",
+  "internal_error": "Internal Error",
+  "verification_success": "Verification Success",
+  "scan_qr_code": "Scan QR code",
+  "invalid_qr_code": "Invalid QR code"
+}
